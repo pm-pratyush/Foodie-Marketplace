@@ -1,4 +1,4 @@
-# Foodie Marketpplace
+# Foodie Marketplace
 
 A Food Ordering Portal where users (Buyers) have the option to search and order various food items. At the same time, various vendors have the ability to list food items.
 
